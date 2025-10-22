@@ -7,4 +7,4 @@
 
 #zero
 
-![zero]("C:\Users\karthikeyan\OneDrive\Desktop\hardware-101-coding-repo\Week_one_task\Day two task\zero.png")
+![zero](https://github.com/elakkiya-07/hardware-101-coding-repo/blob/main/Week_one_task/Day%20two%20task/day2.md.txt)
