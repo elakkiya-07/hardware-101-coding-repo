@@ -1,0 +1,18 @@
+\# Compiling and stimulation status of Day 3(1) task
+
+
+
+\#Wire\_decl
+
+
+
+!\[wire\_decl](https://github.com/elakkiya-07/hardware-101-coding-repo/blob/main/Week\_one\_task/Day%20three%20task/wire\_decl.png)
+
+
+
+\#7458chip
+
+
+
+!\[7458chip](https://github.com/elakkiya-07/hardware-101-coding-repo/blob/main/Week\_one\_task/Day%20three%20task/wire\_decl.png)
+
