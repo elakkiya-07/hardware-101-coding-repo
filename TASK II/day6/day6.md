@@ -1,106 +1,72 @@
-\# D Flip-Flops
+## D Flip-Flops
 
-
-
-This document contains image references and descriptions for Verilog simulations and circuit diagrams developed on \*\*Day 6\*\*.
-
-
-
-
-
-\## dff
+This document contains image references and descriptions for Verilog simulations and circuit diagrams developed on **Day 6**.
+## dff
 
 Basic D flip-flop that captures the input on every positive clock edge.
 
-!\[dff output](https://github.com/<your-username>/hardware-101-coding-repo/blob/main/TASK%20II/day6/dff.jpeg)
+![dff output](https://github.com/<your-username>/hardware-101-coding-repo/blob/main/TASK%20II/day6/dff.jpeg)
 
 
-
-
-
-\## dff8
+## dff8
 
 8-bit D flip-flop that stores 8 bits of data on each clock edge.
 
-!\[dff8 output](https://github.com/<your-username>/hardware-101-coding-repo/blob/main/TASK%20II/day6/dff8.jpeg)
+![dff8 output](https://github.com/<your-username>/hardware-101-coding-repo/blob/main/TASK%20II/day6/dff8.jpeg)
 
 
-
-
-
-\## dff8 with reset
+## dff8 with reset
 
 8-bit D flip-flop with a synchronous reset that clears all outputs to 0.
 
-!\[dff8 with reset output](https://github.com/<your-username>/hardware-101-coding-repo/blob/main/TASK%20II/day6/dff8%20reset%20with%20value.jpeg)
+![dff8 with reset output](https://github.com/<your-username>/hardware-101-coding-repo/blob/main/TASK%20II/day6/dff8%20reset%20with%20value.jpeg)
 
 
-
-
-
-\## dff8 with reset value
+## dff8 with reset value
 
 8-bit D flip-flop with reset functionality that loads a specific value on reset.
 
-!\[dff8 with reset value output](https://github.com/<your-username>/hardware-101-coding-repo/blob/main/TASK%20II/day6/dff8%20with%20reset%20value.jpeg)
+![dff8 with reset value output](https://github.com/<your-username>/hardware-101-coding-repo/blob/main/TASK%20II/day6/dff8%20with%20reset%20value.jpeg)
 
 
-
-
-
-\## dff with asynchronous reset
+## dff with asynchronous reset
 
 D flip-flop that resets output immediately when the reset signal is active.
 
-!\[dff with asynchronous reset output](https://github.com/<elakkiya-07>/hardware-101-coding-repo/blob/main/TASK%20II/day6/dff%20with%20asynchronous%20reset.jpeg)
+![dff with asynchronous reset output](https://github.com/<elakkiya-07>/hardware-101-coding-repo/blob/main/TASK%20II/day6/dff%20with%20asynchronous%20reset.jpeg)
 
 
-
-
-
-\## dff with byte enable
+## dff with byte enable
 
 D flip-flop that updates the output only when the enable signal is high.
 
-!\[dff with byte enable output](https://github.com/<elakkiya-07>/hardware-101-coding-repo/blob/main/TASK%20II/day6/dff%20with%20byte%20enable.jpeg)
+![dff with byte enable output](https://github.com/<elakkiya-07>/hardware-101-coding-repo/blob/main/TASK%20II/day6/dff%20with%20byte%20enable.jpeg)
 
 
-
-
-
-\## dlatch
+## dlatch
 
 Level-triggered D latch that follows the input when enable is high and holds when enable is low.
 
-!\[dlatch output](https://github.com/<elakkiya-07>/hardware-101-coding-repo/blob/main/TASK%20II/day6/dlatch.jpeg)
+![dlatch output](https://github.com/<elakkiya-07>/hardware-101-coding-repo/blob/main/TASK%20II/day6/dlatch.jpeg)
 
 
-
-
-
-\## dff1
+## dff1
 
 Alternate version of D flip-flop for testing and simulation.
 
-!\[dff1 output](https://github.com/<elakkiya-07>/hardware-101-coding-repo/blob/main/TASK%20II/day6/dff1.jpeg)
+![dff1 output](https://github.com/<elakkiya-07>/hardware-101-coding-repo/blob/main/TASK%20II/day6/dff1.jpeg)
 
 
-
-
-
-\## dff2
+## dff2
 
 Another version of D flip-flop with modified logic for practice.
 
-!\[dff2 output](https://github.com/<elakkiya-07>/hardware-101-coding-repo/blob/main/TASK%20II/day6/dff2.jpeg)
+![dff2 output](https://github.com/<elakkiya-07>/hardware-101-coding-repo/blob/main/TASK%20II/day6/dff2.jpeg)
 
 
-
-
-
-\## dff + gate
+## dff + gate
 
 D flip-flop combined with a logic gate (OR/AND) in feedback path.
 
-!\[dff + gate output](https://github.com/<elakkiya-07>/hardware-101-coding-repo/blob/main/TASK%20II/day6/dff%20+%20gate.jpeg)
+![dff + gate output](https://github.com/<elakkiya-07>/hardware-101-coding-repo/blob/main/TASK%20II/day6/dff%20+%20gate.jpeg)
 
