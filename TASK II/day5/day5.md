@@ -48,7 +48,7 @@ This document contains the image references and descriptions for the Verilog sim
 
 
 
-!\[gates4 output](gates4.jpeg)
+!\[gates4 output]("C:\\Users\\karthikeyan\\OneDrive\\Desktop\\hardware-101-coding-repo\\TASK II\\day5\\gates4.jpeg")
 
 
 
