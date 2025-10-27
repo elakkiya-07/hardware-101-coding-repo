@@ -1,4 +1,4 @@
-\# Day 5 - Hardware 101 Coding Repo
+\## Day 5 - Hardware 101 Coding Repo
 
 
 
