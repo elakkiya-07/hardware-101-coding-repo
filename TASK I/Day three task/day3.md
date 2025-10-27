@@ -6,7 +6,7 @@ This document contains image references and descriptions for Verilog simulations
 
 
 
-## wire_decl
+##wire_decl
 
 **Description:**  
 
@@ -14,18 +14,17 @@ The `wire_decl.v` module demonstrates how wires are declared and utilized in Ver
 
 
 
-![wire_decl output](https://github.com/<elakkiya-07>/hardware-101-coding-repo/blob/main/TASK%20I/day%20three%20task/wire_decl.jpeg)
+![wire_decl output](./wire_decl.png)
 
 
-## 7458 chip
+##7458 chip
 
 **Description:**  
 
 The `7458_chip.v` module represents the logic design of the 7458 IC, a combination logic chip containing multiple AND-OR gates. This implementation verifies the chip’s functionality and output logic using Verilog simulation.
 
 
-
-![7458 chip output](https://github.com/<elakkiya-07>/hardware-101-coding-repo/blob/main/TASK%20I/day%20three%20task/7458chip.jpeg)
+![7458 chip output](./7458chip.png)
 
 
 
