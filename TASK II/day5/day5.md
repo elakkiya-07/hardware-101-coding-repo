@@ -14,9 +14,7 @@ This document contains the image references and descriptions for the Verilog sim
 
 
 
-!\[Vector 0 Output](https://github.com/elakkiya-07/hardware-101-coding-repo/blob/main/TASK%20II/day5/vector0.jpeg)
-
-
+!\[vector0 output](./vector0.jpeg)
 
 
 
@@ -26,7 +24,7 @@ This document contains the image references and descriptions for the Verilog sim
 
 
 
-!\[Vector 1 Output](https://github.com/elakkiya-07/hardware-101-coding-repo/blob/main/TASK%20II/day5/vector1.jpeg)
+!\[vector1 output](./vector1.jpeg)
 
 
 
@@ -38,7 +36,7 @@ This document contains the image references and descriptions for the Verilog sim
 
 
 
-!\[Vector Reversal 1 Output](https://github.com/elakkiya-07/hardware-101-coding-repo/blob/main/TASK%20II/day5/vector%20reversal%201.jpeg)
+!\[vector reversal 1 output](./vector%20reversal%201.jpeg)
 
 
 
@@ -50,7 +48,7 @@ This document contains the image references and descriptions for the Verilog sim
 
 
 
-!\[Gates 4 Output](https://github.com/elakkiya-07/hardware-101-coding-repo/blob/main/TASK%20II/day5/gates4.jpeg)
+!\[gates4 output](./gates4.jpeg)
 
 
 
@@ -60,11 +58,7 @@ This document contains the image references and descriptions for the Verilog sim
 
 \*\*Description:\*\* Second iteration of vector sequencing, used to test progressive bit pattern changes and their effect on output timing.
 
-
-
-!\[Vector 2 Output](https://github.com/elakkiya-07/hardware-101-coding-repo/blob/main/TASK%20II/day5/vector2.jpeg)
-
-
+!\[vector2 output](./vector2.jpeg)
 
 
 
@@ -74,7 +68,7 @@ This document contains the image references and descriptions for the Verilog sim
 
 
 
-!\[Vector 3 Output](https://github.com/elakkiya-07/hardware-101-coding-repo/blob/main/TASK%20II/day5/vector3.jpeg)
+!\[vector3 output](./vector3.jpeg)
 
 
 
@@ -86,7 +80,7 @@ This document contains the image references and descriptions for the Verilog sim
 
 
 
-!\[Vector 4 Output](https://github.com/elakkiya-07/hardware-101-coding-repo/blob/main/TASK%20II/day5/vector4.jpeg)
+**!\[vector4 output](./vector4.jpeg)**
 
 
 
@@ -96,15 +90,11 @@ This document contains the image references and descriptions for the Verilog sim
 
 \*\*Description:\*\* Final vector simulation integrating all logic elements tested in earlier cases for a comprehensive system output validation.
 
-
-
-!\[Vector 5 Output](https://github.com/elakkiya-07/hardware-101-coding-repo/blob/main/TASK%20II/day5/vector5.jpeg)
+!\[vector5 output](./vector5.jpeg)
 
 
 
 
 
 \*\*End of Day 5 Report\*\*
-
-
 

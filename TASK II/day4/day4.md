@@ -14,7 +14,7 @@
 
 
 
-!\[alwaysblock1](./Alwaysblock1(2).jpeg)
+!\[alwaysblock1 output](./Alwaysblock1%20(2).jpeg
 
 
 
@@ -24,5 +24,5 @@
 
 \*\*Description:\*\* Timing diagram for always block 2
 
-!\[alwaysblock2](./alwaysblock2.jpeg)
+!\[alwaysblock2 output](./alwaysblock2.jpeg)
 
