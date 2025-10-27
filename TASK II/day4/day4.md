@@ -14,7 +14,7 @@
 
 
 
-!\[alwaysblock1](https://github.com/elakkiya-07/hardware-101-coding-repo/blob/main/TASK%20II/day4/Alwaysblock1%20(2).jpeg)
+!\[alwaysblock1](./Alwaysblock1(2).jpeg)
 
 
 
@@ -24,5 +24,5 @@
 
 \*\*Description:\*\* Timing diagram for always block 2
 
-!\[alwaysblock2](https://github.com/elakkiya-07/hardware-101-coding-repo/blob/main/TASK%20II/day4/alwaysblock2.jpeg)
+!\[alwaysblock2](./alwaysblock2.jpeg)
 
