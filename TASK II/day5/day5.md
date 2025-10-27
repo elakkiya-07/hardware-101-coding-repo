@@ -14,7 +14,7 @@ This document contains the image references and descriptions for the Verilog sim
 
 
 
-!\[vector0 output](./vector0.jpeg)
+!\[vector0 output](vector0.jpeg)
 
 
 
@@ -24,7 +24,7 @@ This document contains the image references and descriptions for the Verilog sim
 
 
 
-!\[vector1 output](./vector1.jpeg)
+!\[vector1 output](vector1.jpeg)
 
 
 
@@ -36,7 +36,7 @@ This document contains the image references and descriptions for the Verilog sim
 
 
 
-!\[vector reversal 1 output](./vector%20reversal%201.jpeg)
+!\[vector reversal 1 output](vector%20reversal%201.jpeg)
 
 
 
@@ -48,7 +48,7 @@ This document contains the image references and descriptions for the Verilog sim
 
 
 
-!\[gates4 output](./gates4.jpeg)
+!\[gates4 output](gates4.jpeg)
 
 
 
@@ -58,7 +58,7 @@ This document contains the image references and descriptions for the Verilog sim
 
 \*\*Description:\*\* Second iteration of vector sequencing, used to test progressive bit pattern changes and their effect on output timing.
 
-!\[vector2 output](./vector2.jpeg)
+!\[vector2 output](vector2.jpeg)
 
 
 
@@ -68,7 +68,7 @@ This document contains the image references and descriptions for the Verilog sim
 
 
 
-!\[vector3 output](./vector3.jpeg)
+!\[vector3 output](vector3.jpeg)
 
 
 
@@ -80,7 +80,7 @@ This document contains the image references and descriptions for the Verilog sim
 
 
 
-**!\[vector4 output](./vector4.jpeg)**
+**!\[vector4 output](vector4.jpeg)**
 
 
 
@@ -90,7 +90,7 @@ This document contains the image references and descriptions for the Verilog sim
 
 \*\*Description:\*\* Final vector simulation integrating all logic elements tested in earlier cases for a comprehensive system output validation.
 
-!\[vector5 output](./vector5.jpeg)
+!\[vector5 output](vector5.jpeg)
 
 
 
