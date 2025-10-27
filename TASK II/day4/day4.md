@@ -14,7 +14,7 @@ Description: This section shows the output timing diagram for the Always Block 1
 
 
 
-!\[alwaysblock1](https://raw.githubusercontent.com/elakkiya-07/hardware-101-coding-repo/main/TASK%20II/day4/Alwaysblock1%20(2).jpeg)
+!\[alwaysblock1](https://github.com/elakkiya-07/hardware-101-coding-repo/blob/main/TASK%20II/day4/Alwaysblock1%20(2).jpeg)
 
 
 
